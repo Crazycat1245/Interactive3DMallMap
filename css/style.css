@@ -719,13 +719,13 @@ button:focus {
 
 .grouped-by-category [data-category='1']:first-child::before,
 .grouped-by-category :not([data-category='1']) + [data-category='1']::before {
-	content: 'Nourish & Refresh';
+	content: 'Classrooms';
 	color: #7cbf7f;
 }
 
 .grouped-by-category [data-category='2']:first-child::before,
 .grouped-by-category :not([data-category='2']) + [data-category='2']::before {
-	content: 'Learn & Create';
+	content: 'Bathrooms';
 	color: #6584c7;
 }
 
@@ -902,14 +902,14 @@ button:focus {
 .pin--1-9 { top: 8vmin; left: 51vmin; }
 
 /* Pins for floor 2 */
-.pin--2-1 { top: 40vmin; left: 25vmin; }
-.pin--2-2 { top: 39vmin; left: 5vmin; }
-.pin--2-3 { top: 21vmin; left: 84vmin; }
-.pin--2-4 { top: 39vmin; left: 53vmin; }
-.pin--2-5 { top: 14vmin; left: 50vmin; }
-.pin--2-6 { top: 60vmin; left: 15vmin; }
-.pin--2-7 { top: 34vmin; left: 37vmin; }
-.pin--2-8 { top: 52vmin; left: 74vmin; }
+
+/* the arc */
+.pin--2-A { top: 42vmin; left: 20vmin; }
+
+/*class room*/
+.pin--2-8 { top: 54vmin; left: 52vmin; }
+.pin--2-6 { top : 30vmin; left: 52vmin; }
+.pin--2-1 { top : 34vmin; left: 82vmin; }
 
 /* Pins for floor 3 */
 .pin--3-1 { top: 17vmin; left: 15vmin; }
