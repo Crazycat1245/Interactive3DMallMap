@@ -891,12 +891,12 @@ button:focus {
 /*pin pos*/
 
 /* Pins for floor 1 */
-.pin--1-1 { top: 60vmin; left: 8vmin; }
-.pin--1-2 { top: 15vmin; left: 15vmin; }
-.pin--1-3 { top: 15vmin; left: 88vmin; }
-.pin--1-4 { top: 40vmin; left: 77vmin; }
-.pin--1-5 { top: 33vmin; left: 38vmin; }
-.pin--1-6 { top: 6vmin; left: 27vmin; }
+.pin--1-1 { top: 35vmin; left: 81vmin; }
+.pin--1-2 { top: 32vmin; left: 51vmin; }
+.pin--1-3 { top: 32vmin; left: 35vmin; }
+.pin--1-4 { top: 55vmin; left: 50vmin; }
+.pin--1-5 { top: 55vmin; left: 62.5vmin; }
+.pin--1-WR { top: 32vmin; left: 14vmin; }
 .pin--1-7 { top: 36vmin; left: 61vmin; }
 .pin--1-8 { top: 9vmin; left: 59vmin; }
 .pin--1-9 { top: 8vmin; left: 51vmin; }
