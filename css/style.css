@@ -912,13 +912,13 @@ button:focus {
 .pin--2-1 { top : 34vmin; left: 82vmin; }
 
 /* Pins for floor 3 */
-.pin--3-1 { top: 33vmin; left: 9vmin; }
-.pin--3-2 { top: 42vmin; left: 5vmin; }
-.pin--3-3 { top: 19vmin; left: 85vmin; }
-.pin--3-4 { top: 61vmin; left: 57vmin; }
-.pin--3-5 { top: 58vmin; left: 25vmin; }
-.pin--3-6 { top: 30vmin; left: 57vmin; }
-.pin--3-7 { top: 32vmin; left: 37vmin; }
+.pin--3-1 { top: 34vmin; left: 82vmin; }
+.pin--3-2 { top: 33vmin; left: 51vmin; }
+.pin--3-3 { top: 33vmin; left: 31vmin; }
+.pin--3-4 { top: 33vmin; left: 9vmin; }
+.pin--3-5 { top: 55vmin; left: 9vmin; }
+.pin--3-6 { top: 55vmin; left: 31vmin; }
+.pin--3-7 { top: 55vmin; left: 51vmin; }
 
 /* Mobile compatability */
 .open-search,
